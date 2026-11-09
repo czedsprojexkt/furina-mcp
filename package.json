@@ -1,0 +1,13 @@
+{
+  "name": "furina-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "express": "^5.1.0",
+    "zod": "^4.1.0"
+  }
+}
